@@ -1,4 +1,4 @@
-package de.richargh.sandbox.kotlincdd.shared_kernel.application
+package de.richargh.sandbox.cdp.shared_kernel.application
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

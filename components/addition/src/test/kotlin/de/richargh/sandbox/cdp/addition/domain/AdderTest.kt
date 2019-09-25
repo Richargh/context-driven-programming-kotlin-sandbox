@@ -1,4 +1,4 @@
-package de.richargh.sandbox.kotlinPicocliPipes.addition
+package de.richargh.sandbox.cdp.addition.domain
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
