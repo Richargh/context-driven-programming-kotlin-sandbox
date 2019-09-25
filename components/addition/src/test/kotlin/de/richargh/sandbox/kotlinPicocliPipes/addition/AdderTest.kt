@@ -12,6 +12,6 @@ class AdderTest {
         val actual = add(2.0, 2.0)
 
         // assert
-        assertThat(actual).isEqualTo(4)
+        assertThat(actual).isEqualTo(4.0)
     }
 }

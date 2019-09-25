@@ -1,5 +1,3 @@
-include 'shared_kernel'
+rootProject.name = 'sandbox-kotlin-cdp-root'
 
-include 'addition'
-
-rootProject.name = 'sandbox-kotlin-cdd'
+includeBuild("components")

@@ -1,5 +1,8 @@
 package de.richargh.sandbox.kotlincdd.shared_kernel.application
 
+import org.assertj.core.api.Assertions.assertThat
+import org.junit.jupiter.api.Test
+
 class LogFactoryContract {
 
     @Test
@@ -11,6 +14,6 @@ class LogFactoryContract {
 
 
         // assert
-
+        assertThat(4).isEqualTo(4)
     }
 }
